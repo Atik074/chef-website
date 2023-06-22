@@ -1,0 +1,14 @@
+.cardBody{
+    background: #20a491;
+}
+.cardTitle{
+    text-align: center;
+    color: peru;
+    background-color: black;
+    border-radius: 10px;
+    padding: 6px 0px;
+}
+.card-desc p{
+    color: white;
+    font-size: 19px;
+}
